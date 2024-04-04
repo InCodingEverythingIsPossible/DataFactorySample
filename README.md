@@ -1,2 +1,2 @@
 # DataFactorySample
-Simple Azure Data Factory pipelines
+Simple Azure Data Factory transformation
